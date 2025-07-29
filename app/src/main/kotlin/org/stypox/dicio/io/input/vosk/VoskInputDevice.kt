@@ -463,7 +463,7 @@ class VoskInputDevice(
          * All small models from [Vosk](https://alphacephei.com/vosk/models)
          */
         val MODEL_URLS = mapOf(
-            "en" to "https://alphacephei.com/vosk/models/vosk-model-small-en-us-0.15.zip",
+            "en" to "https://alphacephei.com/vosk/models/vosk-model-en-us-0.22-lgraph.zip",
             "en-in" to "https://alphacephei.com/vosk/models/vosk-model-small-en-in-0.4.zip",
             "cn" to "https://alphacephei.com/vosk/models/vosk-model-small-cn-0.22.zip",
             "ru" to "https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip",
